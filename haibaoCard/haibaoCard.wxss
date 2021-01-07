@@ -1,0 +1,9 @@
+/* 邀请海报 卡片 */
+
+/* 采用canvas定宽,跟设计图一个宽度,canvas隐藏不展示,因此画多大并不影响视觉 */
+.canvas1 {
+  /* width: 750rpx;
+  height: 1320rpx; */
+  position: fixed;
+  left: -800rpx;
+}
